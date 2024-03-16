@@ -102,6 +102,8 @@ else:
  print("No frequent sequential patterns found in Party Wear.")
 ```
 ### Output:
+![image](https://github.com/Sharmilasha/WDM_EXP3/assets/94506182/156a0b6d-20ca-4522-a872-516a9dacd69c)
+
 
 ### Visualization:
 ```python
@@ -131,5 +133,9 @@ visualize_patterns_line(party_wear_result, 'Party Wear')
 ```
 ### Output:
 
+![image](https://github.com/Sharmilasha/WDM_EXP3/assets/94506182/9cb99829-bf1c-4366-9003-dfe6252289b0)
+
+![image](https://github.com/Sharmilasha/WDM_EXP3/assets/94506182/a73c9050-9020-4e7b-9eb8-fbf34caa8ec4)
 
 ### Result:
+Thus, the Implementation of GSP Algorithm In Python has been succesfully executed.
